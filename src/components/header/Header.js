@@ -9,6 +9,7 @@ export default function Header() {
         <div className='right'>
           <a >Premium</a>
           <a >Pricing</a>
+          <a >Product</a>
           <a >About</a>
           <a >Sing in</a>
           <a >Get Started</a>  
